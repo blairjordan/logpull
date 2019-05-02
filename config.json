@@ -1,0 +1,24 @@
+{
+    "User" : {
+	"CUSTOMER_TOKEN": "YOUR_CUSTOMER_TOKEN" ,
+	"API_TOKEN": "YOUR_CUSTOMER_TOKEN",
+        "CUSTOMER_SUBDOMAIN": "subdomain"
+    },
+    "Loggly" : {
+        "RECORDS_PER_PAGE" : 500,
+        "MAX_RECORDS_PER_QUERY" : 5000
+    },
+    "Settings" : {
+        "LOG_DIR" : "/home/username/logpull/logs",
+        "COMBINED_PATH" : "./log.csv"
+    },
+    "MessageSchema" : {
+        "ROOT": "event.json",
+        "PREPEND_FILENAME": true,
+        "FIELDS": [
+            "FIELD1",
+            "FIELD2",
+            "FIELD3"
+        ]
+    }
+}
