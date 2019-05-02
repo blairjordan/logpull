@@ -3,6 +3,8 @@
 # logpull
 A quick-and-dirty command line tool for retrieving log files from Loggly's API.
 
+![](img/logo.png?raw=true)
+
 ## Install
 
   `npm install`
