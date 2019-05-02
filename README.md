@@ -1,9 +1,10 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # logpull
-A quick-and-dirty command line tool for retrieving log files from Loggly's API.
 
 ![](img/logo.png?raw=true)
+
+A quick-and-dirty command line tool for retrieving log files from Loggly's API.
 
 ## Install
 
